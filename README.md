@@ -2,6 +2,10 @@
 
 This 30-day plan is designed to help you learn JavaScript from basics to advanced concepts with practical exercises and mini-projects.
 
+30 Days the maximum to learn javascript basic.
+I can make the day 1, 2 ,3 and 4 in just 1 day if I can.
+Goal coding hours per day 2 hours maximum. So that I have time for other school works.
+
 ---
 
 ## Week 1 – Basics
